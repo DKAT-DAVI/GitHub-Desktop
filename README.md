@@ -1,4 +1,4 @@
-# Olá Mundo
-   primeiro repositório no **Github**
+# Hello World
+   first repository in **Github**
    
-   editado dentro do github
+   edit in GitHub
